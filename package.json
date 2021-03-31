@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/Jahazielvaz/mosh-nodejs#readme",
   "dependencies": {
+    "1.0.3": "^1.0.3",
     "mongoose": "^5.12.2",
     "underscore": "^1.12.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
   }
 }
